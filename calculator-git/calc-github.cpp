@@ -6,6 +6,8 @@ void main()
 	int x=0, y=5, z;
 	z = x + y;
 	x = z - 2;
+	z = y / 5;
 	cout << "addition of x + y = " << z << endl;
-	cout << "subtraction of 2 from z = " << x << endl;
+	cout << "subtraction of z - 2 = " << x << endl;
+	cout << "divsion of y / 5 = " << z << endl;
 }
