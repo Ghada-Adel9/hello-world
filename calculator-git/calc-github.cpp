@@ -13,5 +13,7 @@ void main()
 
 	// branch1
 	z = ( y / x ) + 9;
+	cout << "The result of the " << endl;
 	cout << "calculation of ( y / x ) + 9 = " << z << endl;
+	cout << "... end of program ...";
 }
